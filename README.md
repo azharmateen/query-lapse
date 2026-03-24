@@ -1,5 +1,8 @@
 # query-lapse
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+
 **Record database queries and replay them as deterministic test fixtures with automatic PII scrubbing.**
 
 Point it at your database, run your app, and get back anonymized query fixtures you can commit to your test suite. Catches N+1 queries and slow queries as a bonus.
